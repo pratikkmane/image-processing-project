@@ -1,9 +1,9 @@
 # image-processing-project
 This repository showcases essential computer vision and image processing techniques using Python, NumPy, OpenCV, and Matplotlib. Key features include Sobel edge detection, Gaussian smoothing, and histogram equalization, with scripts and notebooks demonstrating their applications on sample images. Contributions to enhance the project are welcome.
-# introduction
+## Introduction
 This README provides step-by-step instructions for running the image processing assignment code on Google Colab and Local Server.
 I have provided 5 (.ipynb) files for each question to run on google colab and 1 (.py) file to run on the local server it has the code of all 5 questions in it.
-# Prerequisites
+## Prerequisites
 A Google account (to access Google Colab)
 An internet connection
 The 'Lena.png' image file (or any other image you wish to process) is in the same folder as the .ipynb or .py file.
